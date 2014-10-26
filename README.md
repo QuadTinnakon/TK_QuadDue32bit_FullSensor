@@ -1,18 +1,32 @@
 TK_QuadDue32bit_FullSensor
 ==========================
+
 support:  Arduino Due
+
 • Atmel SAM3X8E ARM Cortex-M3 CPU 32-bit a 84 MHz clock, ARM core microcontroller
-• CJMCU-117 MPU-9250+MS5611 high precision 9 axis 10DOF //SPI 20 MHz 
+
+• CJMCU-117 MPU-9250+MS5611 high precision 9 axis 10DOF //SPI 1 MHz 
+
 • MPU6050 Gyro Accelerometer //I2C 400kHz nois gyro +-0.05 deg/s , acc +-0.04 m/s^2
+
 • MS561101BA Barometer//I2C 400kHz
+
 • HMC5883L Magnetometer //I2C 400kHz
+
 • ADNS3080 Optical Flow Sensor//SPI 1 MHz 
+
 • Ultrasonic_HC-SR04
+
 • Distance Measuring Sensor 20-150cm (SHARP GP2Y0A02YK0F)
+
 • GPS NEO-7N //Rx 1 Tx 1 
+
 • GPS NEO-6 //
+
 • CMUCam5 Pixy //Rx 2 Tx 2
+
 • SMD RGB three colors LEDs module //RGB = pin 5,4,3
+
 • Laser Head Transmitter Sensor Module //pin 40
 
 ----------rx-----------  
