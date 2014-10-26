@@ -51,3 +51,13 @@ A8 = CPPM
 //19/10/2556    write TK_Quad32bit_FullSensor_V2  , PIDA ,  Altitude , Optical Flow Sensor ,CMUCam5 Pixy
 
 //20/10/2556    write TK_Quad32bit_FullSensor_V3  ,Laser Head Transmitter , "BaroSPI_MS5611.h"
+
+http://diydrones.com/profiles/blogs/arduino-due-32bit-quadrotor-testing-altitude-hold
+
+http://youtu.be/qNrovqSp3CU?list=UUK8SdBKqjdXghqlJf3-sZaQ
+
+https://www.facebook.com/tinnakonza
+
+http://www.youtube.com/user/tinnakon6094
+
+http://www.eng.rmutsb.ac.th/
