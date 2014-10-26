@@ -2,6 +2,16 @@ TK_QuadDue32bit_FullSensor
 ==========================
 Picture
 
+![](https://cloud.githubusercontent.com/assets/9403558/4783264/23fb4728-5d1f-11e4-9f8e-9581094c09ac.jpg)
+
+below
+
+![](https://cloud.githubusercontent.com/assets/9403558/4783269/42e3c1f6-5d1f-11e4-9a03-1425c7fc3152.jpg)
+
+front
+
+![](https://cloud.githubusercontent.com/assets/9403558/4783271/628e6b50-5d1f-11e4-9da8-9cecc5da89d7.jpg)
+
 <picture> https://drive.google.com/file/d/0B4UGzNJoSnKmekQ0cjIwZHdDT00/view?usp=sharing <picture>
 
 support:  Arduino Due
