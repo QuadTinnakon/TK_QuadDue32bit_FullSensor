@@ -1,6 +1,8 @@
 TK_QuadDue32bit_FullSensor
 ==========================
 
+https://drive.google.com/file/d/0B4UGzNJoSnKmekQ0cjIwZHdDT00/view?usp=sharing
+
 support:  Arduino Due
 
 • Atmel SAM3X8E ARM Cortex-M3 CPU 32-bit a 84 MHz clock, ARM core microcontroller
