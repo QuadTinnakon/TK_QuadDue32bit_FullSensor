@@ -1,5 +1,9 @@
 TK_QuadDue32bit_FullSensor
 ==========================
+Video
+
+http://www.youtube.com/watch?v=JGk_WfaXbeo&feature=youtu.be
+
 Picture
 
 ![](https://cloud.githubusercontent.com/assets/9403558/4783264/23fb4728-5d1f-11e4-9f8e-9581094c09ac.jpg)
@@ -64,7 +68,7 @@ A8 = CPPM
 
 http://diydrones.com/profiles/blogs/arduino-due-32bit-quadrotor-testing-altitude-hold
 
-http://youtu.be/qNrovqSp3CU?list=UUK8SdBKqjdXghqlJf3-sZaQ
+http://www.youtube.com/watch?v=JGk_WfaXbeo&feature=youtu.be
 
 https://www.facebook.com/tinnakonza
 
