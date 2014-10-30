@@ -26,6 +26,9 @@ support:  Arduino Due
 • SMD RGB three colors LEDs module //RGB = pin 5,4,3
 • Laser Head Transmitter Sensor Module //pin 40
 
+//Motor Redcon 2212 1400 KV 
+//ESC Dragon 30A
+//propeller 8
 ----------rx-----------  
 A8 = CPPM
  */
