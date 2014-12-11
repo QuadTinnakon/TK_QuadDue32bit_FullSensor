@@ -1,5 +1,8 @@
 TK_QuadDue32bit_FullSensor
 ==========================
+TK Quad 3D Shop
+http://quad3d-tin.lnwshop.com/
+
 Video
 
 http://www.youtube.com/watch?v=JGk_WfaXbeo&feature=youtu.be
